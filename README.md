@@ -21,7 +21,7 @@ SyncExample sync = new SyncExample();
 
 then call execute method 
 ```
-sync.executer("params");
+sync.executer("Sync");
 ```
 
 Use interface callbacks to handle Sync behavior. 
