@@ -2,6 +2,19 @@
 Small Android library to handle Async Task methods. 
 Use Interface Segregation Principle to divide the actions into indivual callbacks. 
 
+## Configuration
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+        
+        dependencies {
+	        compile 'com.github.leomindez:Sync:1.0.0'
+	}
+```
 ## Usage 
 Create a class and extends from Sync class. Sync is generic class, set <Params, Result> types and then implement doInBackground method.
 ```
