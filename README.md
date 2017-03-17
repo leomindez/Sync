@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/leomindez/easyrecycler.svg)](https://jitpack.io/#leomindez/sync)
+[![](https://jitpack.io/v/leomindez/sync.svg)](https://jitpack.io/#leomindez/sync)
 
 # Sync
 Small Android library to handle Async Task methods. 
